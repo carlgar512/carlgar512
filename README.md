@@ -1,5 +1,7 @@
 ```md
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=260&section=header&text=Carlos%20García&fontSize=50&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=260&section=header&text=Carlos%20García&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 # 👋 Hey, I'm Carlos García
 
@@ -9,7 +11,9 @@
 
 📍 Spain
 
-![](https://komarev.com/ghpvc/?username=carlgar512&color=blueviolet)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=carlgar512&color=blueviolet" />
+</p>
 
 ---
 
@@ -47,7 +51,6 @@
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-2563EB?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI_Automation-4F46E5?style=for-the-badge)
 
 ---
 
@@ -56,7 +59,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
 
@@ -64,72 +66,32 @@
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-# ⚙️ DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0F172A?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-# 🧩 Specialized In
-
-- SharePoint Framework (SPFx)
-- Microsoft 365 Solutions
-- AI-powered enterprise applications
-- Azure cloud architectures
-- Workflow automation
-- Power Platform integrations
-- Copilot & AI assistants
-- Enterprise portals
-- Modern frontend architectures
-- Scalable APIs & backend services
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 AI & Enterprise Solutions
-
-- AI-powered enterprise applications
-- Microsoft ecosystem integrations
-- Automation workflows
-- Cloud-native architectures
-- Copilot experiences
-- Intelligent business solutions
-
----
-
-## 📱 PintiaTour
-
-Tourism mobile application focused on interactive experiences and scalable mobile architecture.
-
-🔗 https://github.com/carlgar512/PintiaTour
 
 ---
 
 # 📊 GitHub Stats
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlgar512&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlgar512&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlgar512&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlgar512&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=carlgar512&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=carlgar512&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=carlgar512&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlgar512&theme=tokyo-night" />
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=carlgar512&theme=tokyonight&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carlgar512&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
@@ -142,3 +104,4 @@ Tourism mobile application focused on interactive experiences and scalable mobil
 # ⚡ Motto
 
 > “Building intelligent enterprise solutions powered by cloud technologies and AI.”
+```
