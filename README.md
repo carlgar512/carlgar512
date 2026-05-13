@@ -142,4 +142,3 @@ Tourism mobile application focused on interactive experiences and scalable mobil
 # ⚡ Motto
 
 > “Building intelligent enterprise solutions powered by cloud technologies and AI.”
-```
